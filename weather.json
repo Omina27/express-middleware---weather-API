@@ -1,0 +1,578 @@
+[
+    {
+        "id":1,
+        "city": "Tashkent",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":2,
+        "city": "Andijon",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":3,
+        "city": "Namangan",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":4,
+        "city": "Farg'ona",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":5,
+        "city": "Jizzax",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":6,
+        "city": "Surxandaryo",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":7,
+        "city": "Qashqadaryo",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":8,
+        "city": "Navoiy",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":9,
+        "city": "Buxoro",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":10,
+        "city": "Xorazm",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":11,
+        "city": "Samarqand",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    },
+    {
+        "id":12,
+        "city": "Sirdaryo",
+        "weekDays": {
+            "monday":{
+                "weather": "rainy",
+                "tempMax": "17 deg",
+                "tempMin": "8 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "tuesday":{
+                "weather": "cloudy",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "wednesday":{
+                "weather": "foggy",
+                "tempMax": "23 deg",
+                "tempMin": "17 deg",
+                "windSpeed": "8 km/hours"
+            },
+            "thursday":{
+                "weather": "clear sky",
+                "tempMax": "14 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "friday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "13 km/hours"
+            },
+            "saturday":{
+                "weather": "rainy",
+                "tempMax": "9 deg",
+                "tempMin": "7 deg",
+                "windSpeed": "11 km/hours"
+            },
+            "sunday":{
+                "weather": "sunny",
+                "tempMax": "19 deg",
+                "tempMin": "13 deg",
+                "windSpeed": "11 km/hours"
+            }
+        } 
+    }
+]
